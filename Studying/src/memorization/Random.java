@@ -1,0 +1,2 @@
+package memorization;
+public class Random {public static void main(String[] args){Memorization.startSubject(Memorization.getSubjects()[(int)Math.round(Math.random()*(Memorization.getSubjects().length-2))]);}}

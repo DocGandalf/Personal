@@ -1,0 +1,28 @@
+#Nouns
+cosa=thing F
+lápiz=pencil M
+#Verbs
+correr=to run
+bailar=to dance
+dormirse(ue)=to fall asleep
+ser=to be
+estar=to be
+reírse(í)=to laugh
+sonreírse=to smile
+ponerse=to put on
+poner=to put
+seguir(i)=to follow
+conseguir=to get
+ponseguir=to chase
+venir(ie)=to come
+conducir=to drive
+hacer=to do
+tener(ie)=to have
+ir=to go
+terminar=to finish
+traer=to bring
+pagar=to pay
+secar=to dry off
+sacar=to take out
+almorzar(ue)=to have lunch
+#End
